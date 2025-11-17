@@ -158,7 +158,7 @@
             </div>
         </form>
     </div>
-
+    // Include external JS file
     <script src="js/confirmdownlod.js"></script>
     <?php include 'footer.php'; ?>
 </body>
