@@ -3,7 +3,7 @@
 session_start();
 
 // Check if the user is logged in
-if (!isset($_SESSION['user_email'])) { // Change to user_email
+if (!isset($_SESSION['user_email'])) { // Change to user_email if needed
     // Redirect to login page if not logged in
     header("Location: login.php");
     exit(); // Ensure no further code is executed
