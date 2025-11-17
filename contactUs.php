@@ -55,6 +55,6 @@
 </div>
 
 <?php include 'footer.php'; ?>
-<script src="js\contactUs.js"></script>
+<script src="js/contactUs.js"></script>
 </body>
 </html>
