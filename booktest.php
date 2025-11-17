@@ -87,7 +87,7 @@ if (!isset($_SESSION['user_email'])) {
                         backBtn.addEventListener('click', function () {
                             const confirmBack = confirm("Are you sure you want to go to the home page?");
                             if (confirmBack) {
-                                window.location.href = 'home.php'; // Redirect to home page
+                                window.location.href = 'home.php'; // Redirect to home page open on confirmation
                             }
                         });
                     });
