@@ -85,6 +85,6 @@ $conn->close();
         exit();
     }
     ?>
-    <script src="js/header.js"></script> //link to header
+    <script src="js/header.js"></script> 
 </body>
 </html>
