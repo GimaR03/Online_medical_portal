@@ -35,7 +35,7 @@
         ?>
     </table>
 </div>
-
+//update form
 <div class="form-container" id="updateForm">
     <h2>Update Prescription Details</h2>
     <form method="POST">
