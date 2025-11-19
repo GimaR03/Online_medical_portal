@@ -130,7 +130,7 @@
 
     $conn->close();
     ?>
-
+    <!-- confirm details form -->
     <div class="container">
         <h1>Confirm Your Details</h1>
         <div class="details">
