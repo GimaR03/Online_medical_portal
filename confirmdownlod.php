@@ -58,7 +58,7 @@
                     echo "<p>Error: " . $stmt->error . "</p>";
                 }
             } elseif ($_POST['action'] === 'delete') {
-                // Delete report
+                // Delete report data 
                 $stmt = $conn->prepare("DELETE FROM reports WHERE id=?");
                 $stmt->bind_param("i", $id);
 
