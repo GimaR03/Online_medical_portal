@@ -16,7 +16,7 @@
 
 <!-- Main content container -->
 <div class="container">
-    <!-- Login section wrapper -->
+   
     <div class="login-section">
         <!-- Form container section -->
         <div class="form-section">
