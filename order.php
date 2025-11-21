@@ -137,7 +137,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </div>
 
 <button class="checkout-btn">Check Out</button>
-
+<!-- Update User Form -->
 <div class="form-container" id="updateForm" style="display:none;">
     <h2>Update Prescription Details</h2>
     <form method="POST">
