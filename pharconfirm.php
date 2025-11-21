@@ -36,7 +36,7 @@
     </table>
 </div>
 
-<div class="form-container" id="updateForm">
+<div class="form-container" id="updateForm">  <!-- Update Prescription Details -->
     <h2>Update Prescription Details</h2>
     <form method="POST">
         <input type="hidden" id="id" name="id">
