@@ -22,6 +22,7 @@ if (isset($_POST['edit'])) {
             <link rel="stylesheet" type="text/css" href="css/loginUpdate.css">
         </head>
         <body>
+        <!-- Update User Form -->
         <h2>Update User</h2>
         <form method="post" action="loginUpdateProcess.php">
             <input type="hidden" name="email" value="<?php echo $row['email']; ?>">
