@@ -19,6 +19,7 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
+    <!-- Get patient details -->
     <div class="container">
         <form action="patientprocess.php" method="POST">
             <div class="form-sections">
