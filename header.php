@@ -32,7 +32,7 @@ if (isset($_SESSION['user_email'])) {
 
     if ($result->num_rows > 0) {
         $user = $result->fetch_assoc();
-        $fname = htmlspecialchars($user['fname']); // User's first name
+        $fname = htmlspecialchars($user['fname']); 
     }
 
     $stmt->close();
