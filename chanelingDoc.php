@@ -27,7 +27,7 @@ if (!isset($_SESSION['user_email'])) {
 <body>
 
     <?php include 'header.php'; ?>
-
+  <!-- display doctors details -->
     <div class="container">
         <div class="header">
             <h1>Our Doctor Panel</h1>
